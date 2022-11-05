@@ -36,8 +36,7 @@ Users should be able to:
 
 
 ### What I learned
--How to work with REST API and perform CRUD operations.
--How to use Axios and error handling
+I learnty how to work with REST API and perform CRUD operations. I also learnt to use Axios and error handling.
 
 
 ### Continued development
